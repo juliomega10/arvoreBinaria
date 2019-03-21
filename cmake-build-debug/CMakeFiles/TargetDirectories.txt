@@ -1,0 +1,3 @@
+/home/mrscpubn/edii/ArvoreBinaria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mrscpubn/edii/ArvoreBinaria/cmake-build-debug/CMakeFiles/ArvoreBinaria.dir
+/home/mrscpubn/edii/ArvoreBinaria/cmake-build-debug/CMakeFiles/edit_cache.dir

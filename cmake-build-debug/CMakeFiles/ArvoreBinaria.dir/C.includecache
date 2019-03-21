@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mrscpubn/edii/ArvoreBinaria/Lista/lista.c
+lista.h
+/home/mrscpubn/edii/ArvoreBinaria/Lista/lista.h
+
+/home/mrscpubn/edii/ArvoreBinaria/Lista/lista.h
+

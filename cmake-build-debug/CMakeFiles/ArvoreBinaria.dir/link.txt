@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ArvoreBinaria.dir/main.c.o CMakeFiles/ArvoreBinaria.dir/Arvore/arvore.c.o CMakeFiles/ArvoreBinaria.dir/Caminhamentos/caminhamentoERD.c.o CMakeFiles/ArvoreBinaria.dir/Altura/altura.c.o CMakeFiles/ArvoreBinaria.dir/Lista/lista.c.o  -o ArvoreBinaria 
